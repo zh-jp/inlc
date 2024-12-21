@@ -8,7 +8,7 @@ loguru             0.7.3
 torch              2.5.1
 ```
 The datasets used in the experiments: 
-- ILSVRC2012: Images - Validation images (all tasks). 6.3GB. [[link]]((https://image-net.org/challenges/LSVRC/2012/2012-downloads.php))
+- ILSVRC2012: Images - Validation images (all tasks). 6.3GB. [[link]](https://image-net.org/challenges/LSVRC/2012/2012-downloads.php)
 - ImageNet32: Download downsampled image data (32x32, 64x64) - Train(32x32), 3 GB [[link]](https://image-net.org/download-images.php)
 - WebVision1.0: Resized Images (small version) - Google Images Resized (16 GB) [[link]](https://data.vision.ee.ethz.ch/cvl/webvision//download.html)
 
