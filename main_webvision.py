@@ -16,6 +16,7 @@ from pipeline.prepare import optim_and_scheduler, dataloader4training, model_que
 parser = argparse.ArgumentParser()
 
 # dataset.webvision.py needs
+parser.add_argument('--seed', type=int, default=123)
 parser.add_argument('--batch_size', type=int, default=32)
 parser.add_argument('--dataset', type=str, default='webvision')
 
