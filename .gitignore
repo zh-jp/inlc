@@ -1,0 +1,11 @@
+**.pyc
+**.pkl
+**.pth
+**.npy
+**.svg
+**.log
+
+.ipynb_checkpoints
+.idea
+tmp**
+
